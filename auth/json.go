@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/filebrowser/filebrowser/v2/settings"
-	"github.com/filebrowser/filebrowser/v2/users"
+	"github.com/dolfly/filebrowser/v2/settings"
+	"github.com/dolfly/filebrowser/v2/users"
 )
 
 // MethodJSONAuth is used to identify json auth.
